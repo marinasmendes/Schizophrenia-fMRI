@@ -15,7 +15,7 @@ The data used for this analysis includes:
 - **Structural MRI data**: This is a high-resolution MRI scan of the human brain's anatomy.
 - **Source**: The data can be found on [Neurosynth-Schizophrenia](https://neurosynth.org/analyses/terms/schizophrenia/).
     - For the analysis, two files were used, which can be easily downloaded from the above-mentioned website, in the sections `schizophrenia: uniformity test`, and `anatomical`.
-
+    - `schizophrenia: uniformity test` is later referred to as functional data
 ## Notebook
 
 The analysis and data visualization were implemented in a Jupyter Notebook `(Marina-Mendes_Schizophrenia-fMRI)`. The notebook file includes code for:
